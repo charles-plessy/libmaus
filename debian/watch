@@ -1,0 +1,3 @@
+version=3
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/libmaus-$1\.tar\.gz/ \
+  https://github.com/gt1/libmaus/tags .*/v?(\d\S*)\.tar\.gz

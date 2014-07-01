@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: https://github.com/gt1/libmaus
+
+Files: *
+Copyright: to be listed
+License: toBeListed
+ Every license has to be mentionned in this file.
